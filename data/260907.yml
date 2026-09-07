@@ -5,7 +5,7 @@ about:
   head: 936e848
   archived: false
   latestVersion: "v0.39.1-rc.1"
-  collectedAt: 2026-09-07T04:54:42Z
+  collectedAt: 2026-09-07T19:27:14Z
 timeline:
   created: 2021-02-26
   lastCommit: 2026-01-25
@@ -90,7 +90,7 @@ total:
   commit: 5160
 ---
 path: /home/runner/.x-repo/github.com/weaveworks/weave-gitops
-collectedAt: 2026-09-07T04:55:19Z
+collectedAt: 2026-09-07T19:27:49Z
 loc:
   Yaml:
     code: 57386
@@ -522,7 +522,7 @@ checks:
       - 'Info: found contributions from: Folyam, acquia, associmates, breadtubetv, cert-manager, cloudnativelon, cncf, coppersoft-dev, dataminr, e13-tech, fernet, fluxcd, go-asset, kubernetes, kubernetes-sigs, masters-of-cats, nothing-but-josh, open-gitops, python-glasgow, qusec @weaveworks @spantiks, rfxcom, statnett, suse, tektoncd, teracloud, vodafone, warehouse-13, weave works, weaveworks, zenior as'
 ---
 eget:
-  collectedAt: 2026-09-07T04:55:25+00:00
+  collectedAt: 2026-09-07T19:27:54+00:00
   platform:
     darwin/arm64:
       name:  null
