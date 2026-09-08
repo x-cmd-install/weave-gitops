@@ -5,7 +5,7 @@ about:
   head: 936e848
   archived: false
   latestVersion: "v0.39.1-rc.1"
-  collectedAt: 2026-09-08T02:16:18Z
+  collectedAt: 2026-09-08T04:54:45Z
 timeline:
   created: 2021-02-26
   lastCommit: 2026-01-25
@@ -90,7 +90,7 @@ total:
   commit: 5160
 ---
 path: /home/runner/.x-repo/github.com/weaveworks/weave-gitops
-collectedAt: 2026-09-08T02:16:54Z
+collectedAt: 2026-09-08T04:55:30Z
 loc:
   Yaml:
     code: 57386
