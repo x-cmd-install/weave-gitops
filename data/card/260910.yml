@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.39.1-rc.1"
   latestRelease: "v0.39.1-rc.1"
   latestPrerelease: "v0.39.0-rc.2"
-  collectedAt: 2026-09-10T16:51:24Z
+  collectedAt: 2026-09-10T21:10:09Z
 timeline:
   created: 2021-02-26
   lastCommit: 2026-01-25
@@ -94,7 +94,7 @@ total:
   commit: 5160
 ---
 path: /home/runner/.x-repo/github.com/weaveworks/weave-gitops
-collectedAt: 2026-09-10T16:52:00Z
+collectedAt: 2026-09-10T21:10:45Z
 loc:
   Yaml:
     code: 57386
