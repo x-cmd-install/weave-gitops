@@ -12,6 +12,28 @@ Weave GitOps is transitioning to a community driven project! It provides insight
 x install weave-gitops
 ```
 
+## Code insight
+
+Total: **174,451** lines of code across **946** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Yaml | 57,386 | 555 | 338 | 324 |
+| Json | 45,560 | 0 | 2 | 70 |
+| Go | 45,242 | 1,932 | 8,500 | 309 |
+| Tsx | 14,493 | 117 | 1,171 | 200 |
+| TypeScript | 6,400 | 221 | 560 | 43 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/weaveworks/weave-gitops>
@@ -36,30 +58,20 @@ x install weave-gitops
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 22 | 0 | 1 | 0 |
 | 360d | 2025-09-15 | 1 | 40 | 62 | 3 | 2 | 51 |
+| last720d | 2024-09-20 | 3 | 792 | 62 | 12 | 12 | 923 |
 
-## Code size
+## Distribution status
 
-Total: **174,451** lines of code across **946** files in the top 5 languages.
+Reported by **10** distros on [repology.org](https://repology.org/project/weave-gitops). **8** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Yaml | 57,386 | 555 | 338 | 324 |
-| Json | 45,560 | 0 | 2 | 70 |
-| Go | 45,242 | 1,932 | 8,500 | 309 |
-| Tsx | 14,493 | 117 | 1,171 | 200 |
-| TypeScript | 6,400 | 221 | 560 | 43 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.5 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.38.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.38.0` | ✅ latest |
 
 ## Improve this data
 
@@ -70,4 +82,4 @@ Install metadata for weave-gitops lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:52:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:11:05Z._
