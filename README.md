@@ -57,21 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 22 | 0 | 1 | 0 |
-| 360d | 2025-09-18 | 1 | 38 | 62 | 3 | 2 | 51 |
-| last720d | 2024-09-23 | 3 | 792 | 62 | 12 | 12 | 923 |
-
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/weave-gitops). **8** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.38.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.38.0` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 22 | 0 | 1 | 0 |
+| 360d | 2025-09-19 | 1 | 38 | 62 | 3 | 2 | 51 |
+| last720d | 2024-09-24 | 3 | 792 | 62 | 12 | 12 | 923 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for weave-gitops lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:06:37Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:14:52Z._
