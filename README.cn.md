@@ -30,9 +30,9 @@ x install weave-gitops
 
 评分最低的几项:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install weave-gitops
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-06 | 0 | 0 | 10 | 0 | 0 | 0 |
-| 360d | 2025-10-08 | 1 | 22 | 61 | 3 | 1 | 34 |
-| last720d | 2024-10-13 | 3 | 792 | 62 | 12 | 12 | 923 |
+| 30d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-07 | 0 | 0 | 10 | 0 | 0 | 0 |
+| 360d | 2025-10-09 | 1 | 13 | 61 | 2 | 1 | 25 |
+| last720d | 2024-10-14 | 3 | 792 | 62 | 12 | 12 | 923 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ weave-gitops 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261003.yml` · 2026-10-03T05:27:53Z._
+_数据快照: `data/card/261004.yml` · 2026-10-04T06:02:18Z._
