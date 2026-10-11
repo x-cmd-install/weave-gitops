@@ -30,9 +30,9 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-13 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 360d | 2025-10-15 | 1 | 10 | 61 | 2 | 1 | 25 |
-| last720d | 2024-10-20 | 3 | 792 | 62 | 12 | 12 | 923 |
+| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-14 | 0 | 0 | 7 | 0 | 0 | 0 |
+| 360d | 2025-10-16 | 1 | 10 | 61 | 2 | 1 | 24 |
+| last720d | 2024-10-21 | 3 | 792 | 62 | 12 | 12 | 923 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for weave-gitops lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:59:45Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:54:13Z._
