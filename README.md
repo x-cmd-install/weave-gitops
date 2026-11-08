@@ -30,8 +30,8 @@ Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,134 · **Forks**: 166 · **Open issues**: 1,737 · **Contributors**: 99
+- **Stars**: 1,134 · **Forks**: 165 · **Open issues**: 1,737 · **Contributors**: 99
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-12 | 1 | 5 | 44 | 1 | 1 | 6 |
-| last720d | 2024-11-17 | 3 | 778 | 61 | 10 | 12 | 880 |
+| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-13 | 1 | 5 | 44 | 1 | 1 | 6 |
+| last720d | 2024-11-18 | 3 | 778 | 61 | 10 | 12 | 880 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for weave-gitops lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:09:00Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:10:06Z._

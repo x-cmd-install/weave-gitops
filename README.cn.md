@@ -30,8 +30,8 @@ x install weave-gitops
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install weave-gitops
 
 ## 流行度
 
-- **Star**: 1,134 · **Fork**: 166 · **开放 issue**: 1,737 · **贡献者**: 99
+- **Star**: 1,134 · **Fork**: 165 · **开放 issue**: 1,737 · **贡献者**: 99
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install weave-gitops
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-12 | 1 | 5 | 44 | 1 | 1 | 6 |
-| last720d | 2024-11-17 | 3 | 778 | 61 | 10 | 12 | 880 |
+| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-13 | 1 | 5 | 44 | 1 | 1 | 6 |
+| last720d | 2024-11-18 | 3 | 778 | 61 | 10 | 12 | 880 |
 
 ## 发行版状态
 
@@ -82,4 +82,4 @@ weave-gitops 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:09:01Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:10:07Z._
